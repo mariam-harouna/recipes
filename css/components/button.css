@@ -1,0 +1,13 @@
+.btn-rose {
+background-color: #FFBABA;
+padding: 15px 20px;
+border-radius: 1px;
+color: white;
+font-family: 'Open Sans', sans-serif;
+margin: auto;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-rose:hover {
+background-color:rgb(222, 84, 84);
+}

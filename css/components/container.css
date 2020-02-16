@@ -1,0 +1,13 @@
+.container {
+	width: 700px;
+	margin: 60px auto;
+}
+
+.container p {
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.page-content{
+	margin-left: 200px;
+}

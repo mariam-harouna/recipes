@@ -1,0 +1,25 @@
+.sidebar {
+	position: fixed;
+	width: 200px;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	background-color:rgba(252, 232, 233, 0.02);
+	border-right: solid, #333333;
+	text-align: center;
+	line-height: 40px;
+}
+
+.sidebar p {
+	margin: 40px 20px; 
+	margin-top: 120px;
+}
+
+.sidebar ul {
+	list-style: none;
+	padding-left: 0px;
+	}
+
+ul i:hover {
+	color: #333333;
+	}

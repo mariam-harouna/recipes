@@ -1,0 +1,44 @@
+@import url (https://fonts.googleapis.com/css?family=Cookie|Cormorant+Garamond|Lora|Open+Sans&display=swap);
+
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/button.css);
+@import url(components/sidebar.css);
+
+body {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	margin: 0px;
+	background-color:rgba(252, 232, 233, 0.1);
+	color: #333333;
+}
+
+h1 {
+	font-family: 'Cookie', cursive;
+	font-size: 110px;
+	letter-spacing: 4px;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 5px;
+	border-radius: 15px;
+	
+}
+
+h2, h3 {
+font-family: 'Open Sans', sans-serif;	
+font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+}
+
+i {
+	color: #FFBABA;
+	font-size: 33px;
+}
